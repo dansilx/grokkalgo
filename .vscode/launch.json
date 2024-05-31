@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/dansilx/Projetos/grokkalgo/bubblesortmiddle",
-      "program": "/home/dansilx/Projetos/grokkalgo/bubblesortmiddle/build/Debug/outDebug",
+      "cwd": "/home/dansilx/Projetos/grokkalgo/bubble_sort_middle",
+      "program": "/home/dansilx/Projetos/grokkalgo/bubble_sort_middle/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
