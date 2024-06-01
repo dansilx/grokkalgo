@@ -1,5 +1,6 @@
 #include <math.h>
 #include <stdbool.h>
+#include <stdio.h>
 
 bool is_square (int n) {
     if (n < 0) {
