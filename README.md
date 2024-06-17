@@ -1,19 +1,18 @@
-O que focar:
-    Array
-    LinkedList
-    Queue
-    Stack
-    Binary Tree
-    Hashmap
-    Graph
+##O que focar:
+    ####Array
+    ####LinkedList
+    ####Queue
+    ####Stack
+    ####Binary Tree
+    ####Hashmap
+    ####Graph
+    ####BIG O
 
-    BIG O
-
-Identificar tipos de problemas:
-- DFS
-- BFS
-- Sliding Window
-- Backtracking
-- DP (Fibonacci)
-- Hashmap
-- TwoPointer
+#Identificar tipos de problemas:
+* - DFS
+* - BFS
+* - Sliding Window
+* - Backtracking
+* - DP (Fibonacci)
+* - Hashmap
+* - TwoPointer
