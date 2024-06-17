@@ -1,12 +1,12 @@
 ## O que focar
-    #### Array
-    #### LinkedList
-    #### Queue
-    #### Stack
-    #### Binary Tree
-    #### Hashmap
-    #### Graph
-    #### BIG O
+    * Array
+    * LinkedList
+    * Queue
+    * Stack
+    * Binary Tree
+    * Hashmap
+    * Graph
+    * BIG O
 
 ## Identificar tipos de problemas:
 * - DFS
