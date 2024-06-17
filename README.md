@@ -1,14 +1,14 @@
-##O que focar:
-    ####Array
-    ####LinkedList
-    ####Queue
-    ####Stack
-    ####Binary Tree
-    ####Hashmap
-    ####Graph
-    ####BIG O
+## O que focar
+    #### Array
+    #### LinkedList
+    #### Queue
+    #### Stack
+    #### Binary Tree
+    #### Hashmap
+    #### Graph
+    #### BIG O
 
-#Identificar tipos de problemas:
+## Identificar tipos de problemas:
 * - DFS
 * - BFS
 * - Sliding Window
