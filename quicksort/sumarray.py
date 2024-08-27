@@ -21,9 +21,7 @@ def sumarray(array):
     if array == []:
         return 0
     
-    return 1 + sumarray(array[1:])
-
-
+    return array[0] + sumarray(array[1:])
 
 #exemplo de uso
 array = [1,5]
