@@ -12,11 +12,11 @@ def sumarray(arr):
         left =  arr[:mid]
         right =  arr[mid:]
         #Chamada recursiva para cada parte e soma os resultados 
-        sumleft = sumarray(left) 
-        sumright = sumarray(right)
+        # sumleft = sumarray(left) 
+        # sumright = sumarray(right)
         #Combinar resultados
-        return sumleft + sumright
+        return sumarray(left) + sumarray(right)
 #exemplo de uso
-array = [1, 2, 3, 4, 5]
+array = [1,5]
 res = sumarray(array)
 print(res)
